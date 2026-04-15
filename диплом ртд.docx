@@ -7,3 +7,8 @@ VideoGenerator	Бейнелермен жұмыс істейді	ffmpeg_path, cac
 | VideoGenerator | Бейнелермен жұмыс істейді | ffmpeg_path, cache | generate(), concatenate(), **cache_clear()** |
 Signs	Ымдар каталогы	id, word_id, video_path, is_3d, created_by, created_at
 | Signs | Ымдар каталогы | id, word_id, video_path, is_3d, created_by, created_at, **duration (float)** |
+
+
+
+
+git commit -m "Мазмұнын және стандартқа сай түзетулер енгізілді"
